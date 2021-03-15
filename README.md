@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oyitrinn
 - 👀 I’m interested in Software Engineering. To be more specific back-end, API's development, application design and architecture. 
-Others interest of mine in tech are AI, Data and Ml.
+Others interest of mine in tech are AI, Data and ML.
 - 🌱 I’m currently learning Cloud Computing.
 - 📫 How to reach me http://carolher.com/
 
